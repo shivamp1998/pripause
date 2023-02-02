@@ -3,7 +3,7 @@
     "manifest_version": 3,
     "version": "0.0.1",
     "author": "sarvesh.pandey@venturepact.com",
-    "description": "Pri-Pause Auto detects Media Device Plug-out and Pauses the media in Browser", 
+    "description": "Pri-Pause Auto detects Media Device Plug-out and Pauses the media in Chrome Browser", 
     "content_scripts": [
         {
             "matches": [ "<all_urls>"],
